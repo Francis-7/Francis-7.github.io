@@ -13,7 +13,7 @@ h1 {
 p {
     font-family: sans-serif;
     font-style: normal;
-    text-size: 30px;
+    text-size: 45px;
     border-color: seagreen;
     margin: auto;
     padding: 0%;
@@ -23,4 +23,10 @@ p {
 body {
     color: seagreen;
     border-color: aqua;
+}
+
+ul {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
 }
