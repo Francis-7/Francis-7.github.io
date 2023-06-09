@@ -1,11 +1,21 @@
 h1 {
-        font-size: large;
+        font-size: 60px;
             font-family: sans-serif;
                 font-style: normal;
                     text-align: center;
                         text-transform: uppercase;
                             text-rendering: auto;
                                 color:blue;
+                                text-decoration: underline;
                                     margin: auto;
                                         padding: 0%;
                                     }
+p {
+    font-family: sans-serif;
+    font-style: normal;
+    text-size: 30px;
+    border-color: seagreen;
+    margin: auto;
+    padding: 0%;
+}  
+
