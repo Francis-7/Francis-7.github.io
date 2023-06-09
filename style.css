@@ -17,5 +17,10 @@ p {
     border-color: seagreen;
     margin: auto;
     padding: 0%;
+    text-align: center;
 }  
 
+body {
+    color: seagreen;
+    border-color: aqua;
+}
